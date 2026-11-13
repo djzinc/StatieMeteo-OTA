@@ -1,7 +1,7 @@
 {
   "channel": "stable",
   "hw_profile": "ESP32_ST7789_28_NOTOUCH",
-  "version": "1.6.0-beta",
+  "version": "1.6.0.0",
   "bin_url": "https://githubusercontent.com",
   "notes": "Versiune curenta stabila"
 }

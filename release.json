@@ -1,11 +1,7 @@
 {
   "hw_profile": "ESP32_ST7789_28_NOTOUCH",
   "stable": {
-    "version": "1.6.0.2",
-     "bin_url": "https://raw.githubusercontent.com/djzinc/StatieMeteo-OTA/main/firmware_ESP32_ST7789.bin"
-  },
-  "test": {
-    "version": "1.6.1.1",
-     "bin_url": "https://raw.githubusercontent.com/djzinc/StatieMeteo-OTA/main/firmware_ESP32_ST7789.bin"
+    "version": "1.6.1.0",
+    "bin_url": "https://githubusercontent.com"
   }
 }

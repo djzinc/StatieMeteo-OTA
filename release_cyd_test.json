@@ -1,0 +1,7 @@
+{
+  "hw_profile": "ESP32_CYD_2432S028R",
+  "test": {
+    "version": "1.8.4.5-dev4",
+    "bin_url": "https://githubusercontent.comfirmware_ESP32_CYD.bin"
+  }
+}
